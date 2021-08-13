@@ -1,0 +1,1 @@
+app.openUrl("https://shimo.im/docs/TD9jHjVyYqHXhvvh");
