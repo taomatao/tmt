@@ -1,1 +1,0 @@
-app.openUrl("https://shimo.im/docs/DjD9HDjJxXVjPCpr");
